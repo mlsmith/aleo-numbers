@@ -1,0 +1,8 @@
+[project]
+name = "numbers"
+version = "0.1.0"
+description = "An Aleo implementation of the Bulls and Cows game."
+license = "MIT"
+
+[remote]
+author = "michaels" # Add your Aleo Package Manager username or team name.
